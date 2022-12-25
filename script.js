@@ -324,7 +324,7 @@ const helpContent = {
 	},
 	finaleMode: {
 		header: 'Finale Mode',
-		body: 'Launches intense bursts of fireworks. May cause lag. Requires "Auto Fire" to be enabled.'
+		body: 'On mo lang if di ka naglalag.'
 	},
 	hideControls: {
 		header: 'Hide Controls',
